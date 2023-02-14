@@ -18,7 +18,12 @@
 
 
 ### Welcome to my GitHub Profile!  
-I have always been fascinated by the way technology can improve our lives and solve problems, having constant exposure to technology and recently completed a web development Bootcamp at Le Wagon, I am confident that with my passion and determination and with the technical skills I have acquired, I will aim to make a positive impact in the world of technology.  
+I'm a student of technology, that fell in love with programming and software development after completing a web development boot camp at Le Wagon. I have developed a passion to solve problems and love creating functional and reusable code that can be used for a variety of complex situations. 
+
+I get excited about opportunities where I get to create code or troubleshoot simple/complex issues and the ability to create features based on user feedback. 
+
+As a junior developer, I still thrive on learning new things, I would love to be around a community/organization that supports growth and learning. 
+I love to connect with like-minded people so feel free to reach out to me! 😊
 
 <br/>  
 
